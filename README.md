@@ -1,5 +1,7 @@
 # CODE-LAB-FR
 
+> ⚠️ Lire la PREFACE.md avant de commencer
+
 Ce dépôt a pour objectif de fournir aux étudiants français en développement un ensemble d'exercices pratiques pour maîtriser les concepts fondamentaux de la programmation.
 
 Bien que les exercices soient rédigés en JavaScript, l'idée principale est de comprendre la structure universelle du code. En effet, les bases de la programmation, telles que les boucles, les conditions ou les fonctions, restent les mêmes d'un langage à l'autre. Seule la syntaxe change, ce qui permet de s'adapter facilement à de nouveaux environnements de développement une fois que ces concepts sont assimilés.
