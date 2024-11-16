@@ -1,1 +1,1 @@
-// lister les types de données (4 minimum) en créant des variables (données au choix)
+// Créer 4 variables minimum avec un type de données différent à chaque fois.
